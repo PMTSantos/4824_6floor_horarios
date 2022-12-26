@@ -193,43 +193,6 @@ int main(int argc, char **argv)
 
         cout << "Turma: " << word1 << endl;
         puts("Vamos ver as horas para a segunda feira!");
-        /*for (int i = 0; i < horasDoDia.size(); i++)
-        {
-             //cout << horasDoDia[i] << " " << bloco[i] << endl;
-            printf("%-20s %-20s\n", horasDoDia[i].c_str(), bloco[i].c_str());
-        }
-
-        puts("-----------------------------");
-        puts("Vamos ver as horas para a terça feira!");
-        for (int i = 0; i < horasDoDia.size(); i++)
-        {
-             //cout << horasDoDia[i] << " " << bloco[i] << endl;
-            printf("%-20s %-20s\n", horasDoDia[i].c_str(), tercaH[i].c_str());
-        }
-
-        puts("-----------------------------");
-        puts("Vamos ver as horas para a quarta feira!");
-        for (int i = 0; i < horasDoDia.size(); i++)
-        {
-             //cout << horasDoDia[i] << " " << bloco[i] << endl;
-            printf("%-20s %-20s\n", horasDoDia[i].c_str(), quartaH[i].c_str());
-        }
-
-        puts("-----------------------------");
-        puts("Vamos ver as horas para a quinta feira!");
-        for (int i = 0; i < horasDoDia.size(); i++)
-        {
-             //cout << horasDoDia[i] << " " << bloco[i] << endl;
-            printf("%-20s %-20s\n", horasDoDia[i].c_str(), quintaH[i].c_str());
-        }
-
-        puts("-----------------------------");
-        puts("Vamos ver as horas para a sexta feira!");
-        for (int i = 0; i < horasDoDia.size(); i++)
-        {
-             //cout << horasDoDia[i] << " " << bloco[i] << endl;
-            printf("%-20s %-20s\n", horasDoDia[i].c_str(), sextaH[i].c_str());
-        }*/
 
         j[i][word1]["segunda"] = bloco;
         j[i][word1]["terca"] = tercaH;
