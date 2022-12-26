@@ -1,0 +1,1153 @@
+[
+    {
+        "TDGO 22": {
+            "quarta": [
+                "DG-06  EE  Inf2 ",
+                "DG-06  EE  Inf2 ",
+                "EF  FMD  CJ ",
+                "EF  FMD  CJ ",
+                "",
+                "POR  c  SRS  9 ",
+                "OG-03  PF  lnf2 ",
+                "OG-03  PF  lnf2 ",
+                "",
+                ""
+            ],
+            "quinta": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "segunda": [
+                "DG-06  EE  Inf2 ",
+                "DG-06  EE  Inf2 ",
+                "DCV-02  DM  CR ",
+                "DCV-02  DM  CR ",
+                "POR  SRS  CR ",
+                "",
+                "HCA  VS  CR ",
+                "MAT  EP  CR ",
+                "",
+                ""
+            ],
+            "sexta": [
+                "DG-06  EE  Inf2 ",
+                "DG-06  EE  Inf2 ",
+                "TIc  MSM  inf2 ",
+                "TIc  MSM  inf2 ",
+                "",
+                "MAT  EP  CR ",
+                "DCV-02  DM  CR ",
+                "",
+                "",
+                ""
+            ],
+            "terca": [
+                "",
+                "POR  SRS  CR ",
+                "DT  DM  CR ",
+                "INT  JPE  CR ",
+                "INT  JPE  CR ",
+                "",
+                "ING  CMM  4 ",
+                "ING  CMM  4 ",
+                "",
+                ""
+            ]
+        }
+    },
+    {
+        "T3DO 21": {
+            "quarta": [
+                "",
+                "INT  ADA  CR ",
+                "GD  RO  6 ",
+                "GD  RO  6 ",
+                "POR  a  SAM  6 ",
+                "",
+                "DMT-04  CP  Ini ",
+                "DMT-04  CP  Ini ",
+                "DMT-04  CP  lofi ",
+                ""
+            ],
+            "quinta": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "segunda": [
+                "",
+                "HCA  VS  12 ",
+                "HCA  VS  12 ",
+                "DMT-07  JMT  Inf ",
+                "",
+                "DTAG-09  EMN  Inf4 ",
+                "DTAG-09  EMN  Inf4 ",
+                "DTAG-09  EMN  Inf4 ",
+                "DTAG-09  EMN  Inf4 ",
+                ""
+            ],
+            "sexta": [
+                "",
+                "DMT-07  JMT  nf ",
+                "DMT-07  JMT  Inf ",
+                "",
+                "POR  SAM  6 ",
+                "POR  SAM  6 ",
+                "DRC-07  LNF  fe  o ",
+                "DRC-07  LNF  fe  o ",
+                "DRC-07  LNF  5 ",
+                ""
+            ],
+            "terca": [
+                "POR  SAM  Aud ",
+                "ING  CMM Aud ",
+                "ING  CMM  Aud ",
+                "DMT-07  JMT  Inf4 ",
+                "INT  ADA  12 ",
+                "",
+                "GD  RO  6 ",
+                "GD  RO  6 ",
+                "",
+                ""
+            ]
+        }
+    },
+    {
+        "TMO 22": {
+            "quarta": [
+                "",
+                "",
+                "Intervalo ",
+                "",
+                "DCA-05  EE  Inf2 ",
+                "DCA-05  EE  Inf2 ",
+                "HCA  VS  7 ",
+                "HCA  VS  7 ",
+                "",
+                ""
+            ],
+            "quinta": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "segunda": [
+                "DT  JMT  4 ",
+                "INT  ADA  4 ",
+                "INT  ADA  4 ",
+                "ING  CMM  4 ",
+                "",
+                "POR  SAM  4 ",
+                "PIC  4 ",
+                "PIC  4 ",
+                "",
+                ""
+            ],
+            "sexta": [
+                "",
+                "",
+                "",
+                "",
+                "DCA-05  EE  Int2 ",
+                "DCA-05  EE  Int2 ",
+                "ING  CMM  7 ",
+                "ING  CMM  7 ",
+                "",
+                ""
+            ],
+            "terca": [
+                "",
+                "",
+                "",
+                "",
+                "DCA-02  RGU  Inf4 ",
+                "DCA-02  RGU  Inf4 ",
+                "DCA-02  RGU  inf4 ",
+                "DCA-05  EE  Inf4 ",
+                "",
+                ""
+            ]
+        }
+    },
+    {
+        "TGEIO 22": {
+            "quarta": [
+                "SDAC-02  AMS  LE1 ",
+                "",
+                "FQ  ce  4 ",
+                "ING  CMM 4 ",
+                "ELF-02  AMS  LE1 ",
+                "",
+                "Intervalo  | ",
+                "",
+                "Intervalo ",
+                ""
+            ],
+            "quinta": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "segunda": [
+                "",
+                "",
+                "IMEi-02  CG  LE1 ",
+                "IMEi-02  CG  LE1 ",
+                "SDAC-02  AMS  Inf ",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "sexta": [
+                "INT  JPE  4 ",
+                "FQ  cc  4 ",
+                "FQ  cc  4 ",
+                "",
+                "ELF-02  AMS  LE1 ",
+                "ING  CMM  5 ",
+                "TIc  MSM  Inf2 ",
+                "TIc  MSM  Inf2 ",
+                "",
+                ""
+            ],
+            "terca": [
+                "IME1-02  CS  LE1 ",
+                "IME1-02  CS  LE1 ",
+                "MAT  RB  cn ",
+                "MAT  RB  cn ",
+                "",
+                "",
+                "ELF-02  AMS  LE2 ",
+                "ELF-02  AMS  LE2 ",
+                "",
+                ""
+            ]
+        }
+    },
+    {
+        "TDGO 20": {
+            "quarta": [
+                "ING  CMM  7 ",
+                "",
+                "INT  ADA  7 ",
+                "",
+                "Intervalo ",
+                "",
+                "Intervalo  | ",
+                "",
+                "Intervalo ",
+                ""
+            ],
+            "quinta": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "segunda": [
+                "",
+                "",
+                "GD  RO  6 ",
+                "GD  RO  6 ",
+                "",
+                "OG-12  MB  Inf2 ",
+                "OG-12  MB  Inf2 ",
+                "OG-12  MB  Inf2 ",
+                "",
+                ""
+            ],
+            "sexta": [
+                "POR  SAM  12 ",
+                "INT  ADA  12 ",
+                "INT  ADA  42 ",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "terca": [
+                "OG-14  DM  Inf2 ",
+                "",
+                "DT  SAM  S ",
+                "",
+                "ESP  MGS  2  5 ",
+                "DG-17  PF  Inf2 ",
+                "DG-17  PF  Inf2 ",
+                "DG-17  PF  Inf2 ",
+                "",
+                ""
+            ]
+        }
+    },
+    {
+        "TETO 21": {
+            "quarta": [
+                "",
+                "MAT  RB  Ll ",
+                "MAT  RB  LI ",
+                "ING  TAF  Ll ",
+                "",
+                "FQ  ce ",
+                "TA-04  RAS  Li ",
+                "SDI-07  RAS  Ll ",
+                "SDI-07  RAS  Ll ",
+                ""
+            ],
+            "quinta": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "segunda": [
+                "",
+                "TA-04  RAS  Li ",
+                "TA-04  RAS  Li ",
+                "TA-04  RAS  Li ",
+                "DT  JOT  ul ",
+                "",
+                "TLC-04  LPC  Li ",
+                "TLC-04  LPC  Li ",
+                "TLC-04  LPC  Ll ",
+                ""
+            ],
+            "sexta": [
+                "POR  SRS  Ll ",
+                "POR  SRS  Ll ",
+                "INT  JPE  LI ",
+                "FQ  cc  4 ",
+                "",
+                "TLC-04  LPC  Li ",
+                "TLC-04  LPC  Li ",
+                "TLC-04  LPC  Li ",
+                "",
+                ""
+            ],
+            "terca": [
+                "EF  FMD  CJ ",
+                "EF  FMD  CJ ",
+                "POR  SRS  LI ",
+                "FQ  cc  4 ",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    },
+    {
+        "TETO 20": {
+            "quarta": [
+                "EF  FMD  Cd ",
+                "EF  FMD  Cd ",
+                "TLC-14  CG  LE1 ",
+                "TLC-14  CG  LE1 ",
+                "",
+                "DT  MSM 6 ",
+                "POR  SRS  6 ",
+                "POR  SRS  6 ",
+                "",
+                ""
+            ],
+            "quinta": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "segunda": [
+                "INT  JPE  7 ",
+                "INT  JPE  7 ",
+                "ING  ”  TAF  i ",
+                "",
+                "MAT  5  RB  f ",
+                "TA-11  RAS  LE1 ",
+                "TA-11  RAS  LE1 ",
+                "TA-11  RAS  LE1 ",
+                "",
+                ""
+            ],
+            "sexta": [
+                "TLO-14  CG  LE1 ",
+                "TLO-14  CG  LE1 ",
+                "MAT  RB  3 ",
+                "MAT  RB  3 ",
+                "ESP  2  MSM  3 ",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "terca": [
+                "INT  JPE  10 ",
+                "INT  JPE  10 ",
+                "ING  TAF  40 ",
+                "ING  TAF  40 ",
+                "POR  SRS  10 ",
+                "",
+                "TA-11  RAS  Inf ",
+                "TA-11  RAS  Inf ",
+                "",
+                ""
+            ]
+        }
+    },
+    {
+        "T3DO 22": {
+            "quarta": [
+                "",
+                "",
+                "Intervalo  | ",
+                "",
+                "MAT  EP  7 ",
+                "POR  SAM  7 ",
+                "DTAG-02  LNF  Inf4 ",
+                "DTAG-02  LNF  Inf4 ",
+                "DTAG-02  LNF  Inf4 ",
+                ""
+            ],
+            "quinta": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "segunda": [
+                "ING  TAF  Inf4 ",
+                "DMT-03  JMT  Inf4 ",
+                "DMT-03  JMT  Inf4 ",
+                "HCA  VS  11 ",
+                "INT  ADA  11 ",
+                "",
+                "TIC  MSM  Inf3 ",
+                "TIC  MSM  Inf3 ",
+                "",
+                ""
+            ],
+            "sexta": [
+                "",
+                "TIC  MSM  Inf3 ",
+                "DRC-02  RO  6 ",
+                "DRC-02  RO  6 ",
+                "INT  ADA  o ",
+                "",
+                "MAT  EP  6 ",
+                "MAT  EP  6 ",
+                "",
+                ""
+            ],
+            "terca": [
+                "DMT-03  JMT  Inf4 ",
+                "DMT-03  JMT  Inf4 ",
+                "DMT-03  JMT  Inf4 ",
+                "",
+                "POR  SAM  11 ",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    },
+    {
+        "TGEIO 21": {
+            "quarta": [
+                "",
+                "FQ  oe) ",
+                "INT  JPE  11 ",
+                "MAT  RB  11 ",
+                "",
+                "SDAC-05  AMS  Inf3 ",
+                "SDAC-05  AMS  Inf3 ",
+                "",
+                "Intervalo ",
+                ""
+            ],
+            "quinta": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "segunda": [
+                "EF  JV  Cd ",
+                "EF  JV  Cd ",
+                "POR  SRS  5 ",
+                "",
+                "ING  CMM  5 ",
+                "ELF-06  LPC  LE2 ",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "sexta": [
+                "",
+                "ING  CMM  3 ",
+                "IME1-07  CG  Inf3 ",
+                "IME1!-08  CS  Inf3 ",
+                "",
+                "",
+                "",
+                "ELF-06  LPC  LE ",
+                ""
+            ],
+            "terca": [
+                "",
+                "FQ  cc  4 ",
+                "FQ  CG  4 ",
+                "",
+                "MAT  RB  4 ",
+                "ESP  MGS  4 ",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    },
+    {
+        "TMO 20": {
+            "quarta": [
+                "PPM-02  cP  inf ",
+                "PPM-02  cP  inf ",
+                "PPM-02  Cc  inf ",
+                "TEM-08  SSM  Inf ",
+                "",
+                "",
+                "ING  CMM  3 ",
+                "",
+                "Intervalo ",
+                ""
+            ],
+            "quinta": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "segunda": [
+                "PPM-02  cP  Inf ",
+                "PPM-02  cP  Inf ",
+                "PPM-02  cP  inf ",
+                "",
+                "DT  JMT  3 ",
+                "HCA  VS  3 ",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "sexta": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "INT  ADA  7 ",
+                "EF  FMD  CJ ",
+                "EF  FMD  CJ ",
+                "",
+                ""
+            ],
+            "terca": [
+                "POR  TAF  3 ",
+                "HCA  VS  3  3 ",
+                "TEM-08  SSM  Inf ",
+                "TEM-08  SSM  Inf ",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    },
+    {
+        "TETO 22": {
+            "quarta": [
+                "INT  JPE  11 ",
+                "INT  JPE  11 ",
+                "Tic  MSM  Inf3 ",
+                "Tic  MSM  Inf3 ",
+                "FQ  oC ",
+                "",
+                "Intervalo  | ",
+                "",
+                "Intervalo ",
+                ""
+            ],
+            "quinta": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "segunda": [
+                "",
+                "",
+                "TA-02  JFS  LE2 ",
+                "TA-02  JFS  LE2 ",
+                "",
+                "Tic  MSM  Inf3 ",
+                "POR  SAM  5 ",
+                "POR  SAM  5 ",
+                "EEL-04  RAS  LE1 ",
+                ""
+            ],
+            "sexta": [
+                "MAT  RB  2 ",
+                "MAT  RB  2 ",
+                "TA-02  JFS  LE2 ",
+                "TA-02  JFS  LE2 ",
+                "FQ  cc  4 ",
+                "",
+                "POR  SAM  3 ",
+                "POR  SAM  3 ",
+                "",
+                ""
+            ],
+            "terca": [
+                "",
+                "",
+                "",
+                "",
+                "ING  TAF  6 ",
+                "DT  cc  6 ",
+                "EF  FMD  CJ ",
+                "EF  FMD  CJ ",
+                "EEL-04  RAS  LE2 ",
+                ""
+            ]
+        }
+    },
+    {
+        "TMO 21": {
+            "quarta": [
+                "",
+                "",
+                "POR  SRS  12 ",
+                "INT  ADA  12 ",
+                "",
+                "HCA  VS  4 ",
+                "EF  FMD  CJ ",
+                "EF  FMD  CJ ",
+                "",
+                ""
+            ],
+            "quinta": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "segunda": [
+                "",
+                "POR  fe  SRS  a ",
+                "TEM-06  RPD  Inf3 ",
+                "TEM-06  RPD  Inf3 ",
+                "",
+                "SFW-05  VPS  Inf ",
+                "SFW-06  VPS  Inf ",
+                "SFW-06  VPS  Inf ",
+                "",
+                ""
+            ],
+            "sexta": [
+                "",
+                "",
+                "ING  CMM  5 ",
+                "POR  SRS  5  2 ",
+                "",
+                "SFW-06  VPS  Inf ",
+                "SFW-06  VPS  Inf ",
+                "SFW-06  VPS  Inf ",
+                "",
+                ""
+            ],
+            "terca": [
+                "TIc  MSM  Inf3 ",
+                "INT  ADA  4 ",
+                "DCA-06  RPD  inf2 ",
+                "TEM-06  RPD  Int2 ",
+                "HCA  >  \\  Vv  S ",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    },
+    {
+        "T3DO 20": {
+            "quarta": [
+                "",
+                "",
+                "DMT-18  VPS  Inf4 ",
+                "DMT-18  VPS  Inf4 ",
+                "INT  JPE  2  2 ",
+                "",
+                "Intervalo ",
+                "",
+                "Intervalo ",
+                ""
+            ],
+            "quinta": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "segunda": [
+                "HCA  VS  2  2 ",
+                "POR  TAF  2  2 ",
+                "EF  JV  CJ ",
+                "EF  JV  CJ ",
+                "",
+                "INT  JPE  2  2 ",
+                "ESP  MGS  2 ",
+                "",
+                "",
+                ""
+            ],
+            "sexta": [
+                "PAP  RO  Inf4 ",
+                "PAP  RO  Inf4 ",
+                "PAP  Inf4 ",
+                "",
+                "PAP  Inf4 ",
+                "PAP  RO  Inf4 ",
+                "PAP  RO  Inf4 ",
+                "PAP  RO  Inf4 ",
+                "",
+                ""
+            ],
+            "terca": [
+                "",
+                "",
+                "HCA  VS ",
+                "",
+                "ING  2  CMM  2 ",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    },
+    {
+        "TGEIO 20": {
+            "quarta": [
+                "cD-05  CG  Inf3 ",
+                "cD-05  CG  Inf3 ",
+                "ING  TAF  o ",
+                "",
+                "POR  SRS  Aud ",
+                "INT  JPE  Aud ",
+                "INT  JPE  Aud ",
+                "",
+                "Intervalo ",
+                ""
+            ],
+            "quinta": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "segunda": [
+                "CbB-05  CS  Inf3 ",
+                "CbB-05  CS  Inf3 ",
+                "MAT  RB  2  2 ",
+                "ING  TAF  2 ",
+                "ESP  MGS  12 ",
+                "",
+                "POR  SRS  12 ",
+                "POR  SRS  12 ",
+                "",
+                ""
+            ],
+            "sexta": [
+                "EF  JV  Cd ",
+                "EF  JV  Cd ",
+                "POR  SRS  7 ",
+                "",
+                "INT  JPE  2 ",
+                "INT  JPE  2 ",
+                "MAT  RB  12 ",
+                "",
+                "",
+                ""
+            ],
+            "terca": [
+                "MAT  RB  12 ",
+                "MAT  RB  12 ",
+                "CD-05  CG  Inf3 ",
+                "CD-05  CG  Inf3 ",
+                "",
+                "CD-04  JVM  Inf3 ",
+                "CD-04  JVM  inf ",
+                "",
+                "",
+                ""
+            ]
+        }
+    },
+    {
+        "TDGO 21": {
+            "quarta": [
+                "HCA  ADA  6 ",
+                "GD  RO  6 ",
+                "DG-11  PF  Inf2 ",
+                "DG-12  PF  Inf2 ",
+                "DCV-07  DM  CR ",
+                "",
+                "POR  SPB  2  - ",
+                "POR  SPB  2  - ",
+                "",
+                ""
+            ],
+            "quinta": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "segunda": [
+                "",
+                "DCV-07  DM  CR ",
+                "DG-11  PF  inf2 ",
+                "DG-11  PF  inf2 ",
+                "DG-11  PF  Inf2 ",
+                "",
+                "GD  RO  6 ",
+                "GD  RO  6 ",
+                "",
+                ""
+            ],
+            "sexta": [
+                "HCA  ADA  6 ",
+                "INT  JPE  6 ",
+                "EF  FMD  CJ ",
+                "EF  FMD  CJ ",
+                "",
+                "DT  DM  11 ",
+                "POR  SPB  11 ",
+                "POR  SPB  11 ",
+                "",
+                ""
+            ],
+            "terca": [
+                "",
+                "GD  RO  6 ",
+                "INT  JPE  12 ",
+                "HCA  ADA  12 ",
+                "OG-06  DM  Inf ",
+                "",
+                "ESP  MGS  CR ",
+                "DCV-07  DM  CR ",
+                "",
+                ""
+            ]
+        }
+    },
+    {
+        "TVO 22": {
+            "quarta": [
+                "TAP-03  RC  PP ",
+                "TAP-03  RC  PP ",
+                "TAP-03  RC  PP ",
+                "",
+                "MAT  RB  10 ",
+                "F  PJC  19 ",
+                "PJC  10 ",
+                "INT  ADA  1c ",
+                "",
+                ""
+            ],
+            "quinta": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "segunda": [
+                "",
+                "ING  CMM  19 ",
+                "TCM-01  PMM  10 ",
+                "VID-01  RTA  Inf4 ",
+                "VID-01  RTA  Inf4 ",
+                "",
+                "VID-04  JR  Aud ",
+                "VID-04  JR  Aud ",
+                "",
+                ""
+            ],
+            "sexta": [
+                "",
+                "POR  SAM  10 ",
+                "POR  SAM  10 ",
+                "HCA  VS  10 ",
+                "",
+                "VID-04  JR  19 ",
+                "VID-04  JR  19 ",
+                "VID-04  JR  19 ",
+                "",
+                ""
+            ],
+            "terca": [
+                "TAP-03  RC  PP ",
+                "TAP-03  RC  PP ",
+                "TAP-03  RC  PP ",
+                "",
+                "VID-01  RTA  Inf2 ",
+                "ING  CMM  10 ",
+                "PJC  10 ",
+                "POR  SAM  10 ",
+                "",
+                ""
+            ]
+        }
+    },
+    {
+        "TVO 21": {
+            "quarta": [
+                "",
+                "",
+                "Intervalo  | ",
+                "",
+                "VID-09  JR.  Est  PPV-06  PP ",
+                "VID-09  JR.  Est  PPV-06  PP ",
+                "VID-09  JR.  Est  PPV-06  PP ",
+                "VID-09  JR.  Est  PPV-06  PP ",
+                "",
+                ""
+            ],
+            "quinta": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "segunda": [
+                "",
+                "VID-09  JR.  Est ",
+                "VID-09  JR.  Est  PPV-06  PP ",
+                "VID-09  JR.  Est  PPV-06  PP ",
+                "",
+                "MAT  7  RB ",
+                "MAT  s  RB  7 ",
+                "ESP  MGS  7 ",
+                "",
+                ""
+            ],
+            "sexta": [
+                "POR  TAF  11 ",
+                "HCA  VS  11 ",
+                "HCA  VS  11 ",
+                "ING  CMM  11 ",
+                "MAT  RB  11 ",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "terca": [
+                "VID-10  SMO  Inff ",
+                "VID-10  SMO  Inff ",
+                "INT  >  ADA  f ",
+                "",
+                "VID-09  JR,  Est  PPV-06  PP ",
+                "VID-09  JR,  Est  PPV-06  PP ",
+                "VID-09  JR,  Est  PPV-06  PP ",
+                "VID-09  JR,  Est  PPV-06  PP ",
+                "",
+                ""
+            ]
+        }
+    },
+    {
+        "TVO 20": {
+            "quarta": [
+                "HCA  5  vs  1Z ",
+                "ING  TAF  12 ",
+                "PPV-07  VPS  Int4 ",
+                "PPV-07  VPS  Int4 ",
+                "",
+                "INT  ADA  12 ",
+                "POR  SAM  12 ",
+                "POR  SAM  12 ",
+                "",
+                ""
+            ],
+            "quinta": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "segunda": [
+                "INT  ADA  oO ",
+                "PPV-07  RN  Aud ",
+                "PPV-07  RN  Aud ",
+                "PPV-07  RN  Aud ",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "sexta": [
+                "PAP  Est ",
+                "PAP  Est ",
+                "PAP  Est ",
+                "",
+                "PAP  Est ",
+                "PAP  Est ",
+                "PAP  Est ",
+                "PAP  Est ",
+                "",
+                ""
+            ],
+            "terca": [
+                "HCA  5  VS  > ",
+                "ING  TAF  7 ",
+                "EF  FMD  CJ ",
+                "EF  FMD  CJ ",
+                "",
+                "",
+                "POR  SAM  3 ",
+                "",
+                "",
+                ""
+            ]
+        }
+    }
+]
